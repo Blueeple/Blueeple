@@ -4,4 +4,4 @@
 - 17 years old and likes cool coding shit.
 - Luau scripter (wow soo cool)
 - .Net user (How original)
-- Learning Zig / C# (Bro's going nowhere with this)
+- Learning Zig / Rust / C / C++ / C# (Bro's going nowhere with this)
