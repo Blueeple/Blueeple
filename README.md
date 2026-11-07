@@ -1,7 +1,16 @@
-## What is a Bue?
+# What is a Bue?
 
-- Very dumb and makes errors.
-- 17 years old and likes cool coding shit.
-- Luau scripter (wow soo cool)
-- .Net user (How original)
-- Learning Zig / Rust / C / C++ / C# (Bro's going nowhere with this)
+- A Bue is a Bue basically Bue does Bue things that Bue likes that's very Bue of Bue.
+
+## Basic Info
+- Age | `17`
+- HI3 Main | `Seele` - VERY IMPORTANT INFO
+
+## Contact (Idk why you would but ok?)
+- Discord | `Blueeple`
+
+### Languages Known
+- Luau | `Advanced`
+- C# | `Barebones`
+- Zig | `Barebones`
+- Rust | `Barebones`
