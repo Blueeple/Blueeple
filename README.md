@@ -12,5 +12,4 @@
 ### Languages Known
 - Luau | `Advanced`
 - C# | `Barebones`
-- Zig | `Barebones`
 - Rust | `Barebones`
